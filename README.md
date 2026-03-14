@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3C1053,100:085041&height=200&section=header&text=Ali%20Erkan%20Oca%C4%B1kl%C4%B1&fontSize=40&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=Bioinformatics%20%26%20Data%20Science%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=16)
 # 🧬 Ali Ocaklı | Bioinformatics & Data Science
 
 <div align="center">
@@ -212,3 +213,6 @@ I've created a professional README template for all repositories. Here's the str
           - ---
 
           *Last Updated: January 2026 | Profile Status: Actively Maintained* ✨
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3C1053,100:085041&height=100&section=footer)
