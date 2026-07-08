@@ -46,11 +46,19 @@ CI, and documentation.
 ![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=flat-square&logo=supabase&logoColor=86EFAC)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0F172A?style=flat-square&logo=openai&logoColor=white)
 
-## Activity
+## Activity & Signals
 
 <p align="center">
-  <img src="assets/metrics.svg" alt="GitHub metrics" />
+  <img src="assets/activity-summary.svg" alt="Activity summary" />
 </p>
+
+<details>
+  <summary>Detailed GitHub metrics</summary>
+  <br />
+  <p align="center">
+    <img src="assets/metrics.svg" alt="GitHub metrics" />
+  </p>
+</details>
 
 <details>
   <summary>Contribution snake</summary>
